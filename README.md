@@ -3,5 +3,16 @@
 ## hiii
 ### hiii
 #### hiii
-**bold** </n>
-*italic*
+**bold**  
+*italic*<br>
+~~strike through~~ 
+<br>
+- list
+- python
+- c
+- java
+- react
+- js
+- machine learining
+
+  
