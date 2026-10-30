@@ -14,5 +14,8 @@
 - react
 - js
 - machine learining
-[java](p1.java)
+[java](mygit//index.html)  
   
+[java](mygit/index.html)
+
+[java](https://github.com/AKSHAYA151515/mygit/blob/main/index.html)
